@@ -1,0 +1,111 @@
+time 1328594371
+new [description:"spatial join for gnis and tiger sql script" entry:"1328594371" priority:"H" status:"pending" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+---
+time 1328594480
+old [description:"spatial join for gnis and tiger sql script" entry:"1328594371" priority:"H" status:"pending" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+new [description:"spatial join for gnis and tiger sql script" due:"1328860800" entry:"1328594371" priority:"H" status:"pending" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+---
+time 1328594486
+new [description:"spatial join for gnis and tiger sql script" entry:"1328594486" priority:"H" status:"pending" uuid:"1a128eb3-d5de-42d9-bc72-71d6ff74a218"]
+---
+time 1328594499
+old [description:"spatial join for gnis and tiger sql script" entry:"1328594486" priority:"H" status:"pending" uuid:"1a128eb3-d5de-42d9-bc72-71d6ff74a218"]
+new [description:"remove" entry:"1328594486" priority:"H" status:"pending" uuid:"1a128eb3-d5de-42d9-bc72-71d6ff74a218"]
+---
+time 1328594509
+old [description:"remove" entry:"1328594486" priority:"H" status:"pending" uuid:"1a128eb3-d5de-42d9-bc72-71d6ff74a218"]
+new [description:"remove" end:"1328594507" entry:"1328594486" priority:"H" status:"deleted" uuid:"1a128eb3-d5de-42d9-bc72-71d6ff74a218"]
+---
+time 1328594535
+old [description:"spatial join for gnis and tiger sql script" due:"1328860800" entry:"1328594371" priority:"H" status:"pending" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+new [description:"active:yes" due:"1328860800" entry:"1328594371" priority:"H" status:"pending" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+---
+time 1328594563
+old [description:"active:yes" due:"1328860800" entry:"1328594371" priority:"H" status:"pending" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+new [description:"spatial join for gnis and tiger sql script" due:"1328860800" entry:"1328594371" priority:"H" status:"pending" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+---
+time 1328594643
+new [description:"@work" entry:"1328594643" status:"pending" uuid:"0dd37bd8-4cf3-4703-9653-81b41807d0e7"]
+---
+time 1328594659
+old [description:"@work" entry:"1328594643" status:"pending" uuid:"0dd37bd8-4cf3-4703-9653-81b41807d0e7"]
+new [description:"@work" end:"1328594657" entry:"1328594643" status:"deleted" uuid:"0dd37bd8-4cf3-4703-9653-81b41807d0e7"]
+---
+time 1328594784
+old [description:"spatial join for gnis and tiger sql script" due:"1328860800" entry:"1328594371" priority:"H" status:"pending" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+new [description:"spatial join for gnis and tiger sql script" due:"1328860800" entry:"1328594371" priority:"H" status:"pending" tags:"@work" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+---
+time 1328642763
+new [description:"spatial join for corelogic and tiger sql script" entry:"1328642763" priority:"H" status:"pending" uuid:"5d24bc07-4a1e-4780-8e13-d6b8d218704b"]
+---
+time 1328644055
+new [description:"add ref.zip_zip_names mapping" entry:"1328644055" priority:"H" status:"pending" uuid:"c92f40fa-4582-4a4a-88ea-8afd79751409"]
+---
+time 1328677510
+new [description:"completed state, county , subcounty and zip , difficulty with place" end:"1328677510" entry:"1328677510" status:"completed" uuid:"191a7c59-9539-4727-bbc5-1b506f358de7"]
+---
+time 1328679661
+new [description:"setup example avro demo" entry:"1328679661" priority:"M" status:"pending" uuid:"2985eac7-66db-429a-816a-8ec4685412e5"]
+---
+time 1328679671
+new [description:"setup example hdfs rad/write demo" entry:"1328679671" priority:"M" status:"pending" uuid:"ba259d65-d2dc-4b7f-9f7a-c28b918da6d0"]
+---
+time 1328679679
+new [description:"setup example hdfs+avro demo" entry:"1328679679" priority:"M" status:"pending" uuid:"dd4b16f0-f72d-49ea-adc7-7a825bb01932"]
+---
+time 1328679697
+new [description:"setup 2 node hadoop cluster" entry:"1328679697" priority:"H" status:"pending" uuid:"29f45649-55a2-4e94-b230-0fbecf184a98"]
+---
+time 1328809777
+old [description:"add ref.zip_zip_names mapping" entry:"1328644055" priority:"H" status:"pending" uuid:"c92f40fa-4582-4a4a-88ea-8afd79751409"]
+new [description:"add ref.zip_zip_names mapping" end:"1328809777" entry:"1328644055" priority:"H" status:"completed" uuid:"c92f40fa-4582-4a4a-88ea-8afd79751409"]
+---
+time 1328838212
+old [description:"spatial join for gnis and tiger sql script" due:"1328860800" entry:"1328594371" priority:"H" status:"pending" tags:"@work" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+new [description:"spatial join for gnis and tiger sql script" due:"1328860800" end:"1328838212" entry:"1328594371" priority:"H" status:"completed" tags:"@work" uuid:"21a2f3c4-7efa-4185-a629-c9e4d50878dc"]
+---
+time 1329153760
+old [description:"spatial join for corelogic and tiger sql script" entry:"1328642763" priority:"H" status:"pending" uuid:"5d24bc07-4a1e-4780-8e13-d6b8d218704b"]
+new [description:"spatial join for corelogic and tiger sql script" end:"1329153760" entry:"1328642763" priority:"H" status:"completed" uuid:"5d24bc07-4a1e-4780-8e13-d6b8d218704b"]
+---
+time 1329154324
+new [description:"develop a txd to db converter for testing of txd" entry:"1329154324" status:"pending" uuid:"761e1a00-a4ba-4cc5-909f-e8743bbdba84"]
+---
+time 1329154337
+old [description:"develop a txd to db converter for testing of txd" entry:"1329154324" status:"pending" uuid:"761e1a00-a4ba-4cc5-909f-e8743bbdba84"]
+new [description:"develop a txd to db converter for testing of txd" entry:"1329154324" priority:"M" status:"pending" uuid:"761e1a00-a4ba-4cc5-909f-e8743bbdba84"]
+---
+time 1329155763
+new [description:"read hdfs chapter 3 of hadoop defenitive guide" entry:"1329155763" status:"pending" uuid:"b8bd4e9f-697e-4251-8d06-bf49f99bd789"]
+---
+time 1329159375
+new [description:"addressing to data temperature" entry:"1329159375" status:"pending" uuid:"357c8efd-7317-47be-90ad-a034b13d6b33"]
+---
+time 1329159387
+old [description:"setup 2 node hadoop cluster" entry:"1328679697" priority:"H" status:"pending" uuid:"29f45649-55a2-4e94-b230-0fbecf184a98"]
+new [description:"setup 2 node hadoop cluster" end:"1329159387" entry:"1328679697" priority:"H" status:"completed" uuid:"29f45649-55a2-4e94-b230-0fbecf184a98"]
+---
+time 1329846338
+old [description:"develop a txd to db converter for testing of txd" entry:"1329154324" priority:"M" status:"pending" uuid:"761e1a00-a4ba-4cc5-909f-e8743bbdba84"]
+new [description:"develop a txd to db converter for testing of txd" end:"1329846338" entry:"1329154324" priority:"M" status:"completed" uuid:"761e1a00-a4ba-4cc5-909f-e8743bbdba84"]
+---
+time 1329846619
+old [description:"setup example avro demo" entry:"1328679661" priority:"M" status:"pending" uuid:"2985eac7-66db-429a-816a-8ec4685412e5"]
+new [description:"setup example avro demo" end:"1329846617" entry:"1328679661" priority:"M" status:"deleted" uuid:"2985eac7-66db-429a-816a-8ec4685412e5"]
+---
+time 1329846622
+old [description:"setup example hdfs rad/write demo" entry:"1328679671" priority:"M" status:"pending" uuid:"ba259d65-d2dc-4b7f-9f7a-c28b918da6d0"]
+new [description:"setup example hdfs rad/write demo" end:"1329846621" entry:"1328679671" priority:"M" status:"deleted" uuid:"ba259d65-d2dc-4b7f-9f7a-c28b918da6d0"]
+---
+time 1329846626
+old [description:"setup example hdfs+avro demo" entry:"1328679679" priority:"M" status:"pending" uuid:"dd4b16f0-f72d-49ea-adc7-7a825bb01932"]
+new [description:"setup example hdfs+avro demo" end:"1329846625" entry:"1328679679" priority:"M" status:"deleted" uuid:"dd4b16f0-f72d-49ea-adc7-7a825bb01932"]
+---
+time 1329846632
+old [description:"addressing to data temperature" entry:"1329159375" status:"pending" uuid:"357c8efd-7317-47be-90ad-a034b13d6b33"]
+new [description:"addressing to data temperature" end:"1329846630" entry:"1329159375" status:"deleted" uuid:"357c8efd-7317-47be-90ad-a034b13d6b33"]
+---
+time 1329846638
+old [description:"read hdfs chapter 3 of hadoop defenitive guide" entry:"1329155763" status:"pending" uuid:"b8bd4e9f-697e-4251-8d06-bf49f99bd789"]
+new [description:"read hdfs chapter 3 of hadoop defenitive guide" end:"1329846637" entry:"1329155763" status:"deleted" uuid:"b8bd4e9f-697e-4251-8d06-bf49f99bd789"]
+---
